@@ -24,9 +24,9 @@ A computer port briefly comes under one of the two classes based on the protocol
    4. Universal Serial bus Port
    Short formed as USB is the modern standard for digital communication. The USB port has become a modern communication standard for connecting external peripheral devices to the computer. This USB port has significantly replaced serial ports, ps/2 ports, other game ports, parallel ports which become legacy and no longer used.
    This USB port can serve multiple purposes like
-    Transfer Data
-    Poer supply to charge external compatible device
-    interface for the peripheral
+      i]Transfer Data
+     ii]Poer supply to charge external compatible device
+    iii]interface for the peripheral
   
    These ports are not device-dependent like there is no standard reservation for devices to be connected. Any compatible device can be connected with this port.
    There are three types of USB ports and they are Type A, Type B, and Micro USB.
