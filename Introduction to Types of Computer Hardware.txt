@@ -1,0 +1,35 @@
+Introduction to Types of Computer Hardware
+For the working of the Types of Computer Hardware, it needs both hardware and software components. For every computer system, there can be several hardware components attached to the system as per the requirements. The computer hardware contains mechanical elements and electronic elements of the computer. The hardware of the computer system includes monitor, CPU, keyboard, mouse, printer, sound system, RAM, hard disk and many more. Hardware is used for taking input data from the user, store the data and display the output and execute the commands given by an individual.
+
+Different Types Of Computer Hardware
+Given below are the types of computer hardware:
+
+ 1. RAM
+ RAM (Random Access Memory) is a type of computer hardware that is used to store the information and then process that information. The processing speed of RAM is much faster than a hard disk but Ram is a volatile device which means when a computer system is shut down all the information stored is wiped out from RAM whereas hard disk is non-volatile which means it stores the data permanently in it. The data can be easily stored in RAM and can be easily fetched from RAM. The fetch process of data is very fast in Ram compare to hard disk. There are two types of RAM SRAM (Static Random Access Memory) and DRAM (Dynamic random access memory). The use of SRAM is in a cache memory of CPU. And the DRAM is mostly used in modern computers.
+ 
+ 2. Hard disk
+ The hard disk is another type of computer hardware that is used to store the data in it. The hard disk can be preinstalled in CPU or can be used as an external device. The hard disk is the non-volatile component which means the data is stored permanently in hard disk and it does not wipe out when the system is shut down. The hard disk contains electromagnet surface which is used to store huge chunks of data and can be accessed easily. The hard disk has the capacity to store trillions of bytes of data in its storage. In the internal of hard disk, it has a collection of stacked disks which have electromagnetic surface used to store data in it. Every hard disk has a certain processing speed which varies from 4200-15000 rpm. The higher the rpm more is the processing speed of a hard disk. The high processing speed is used in supercomputers.
+
+ 3. Monitor
+ For the computer hardware, the hardware is another device that is used to display the output, videos and other graphics as it is directly connected to the CPU. The video displayed by the monitor uses the video card. The monitor can be compared to the television set but the difference is the resolution and graphics displayed by the monitor are of much high quality compare to the television set. The desktop is connected via a cable and gets fitted in a computer video card which is installed in the motherboard of the computer system. For laptops, tablets the monitor is pre-built in the system and there is no separate hardware installed in these devices. There are two types of computer monitors which are CRT and LCD. The CRT was used as an old model of computers. The LCD is used in a modern computer as they are thinner and lighter and easy to use compared to CRT monitors.
+
+ 4. CPU
+ CPU (Central processing unit) is the core hardware part of the computer system which is used to interpret and execute most of the commands using other computer parts i.e. software and hardware.  The CPU is a core part of any PC, laptops, tablets, and notebooks. The CPU is also called the brain of the computer as every operation is executed in the CPU only. The CPU is made of computer chip which contains billions of small transistors installed on it. All the calculations are performed inside these transistors. The other hardware components which are monitor, keyboard, mouse, printer, sound system are connected o CPU.
+
+ 5. Mouse
+ It is a hand operator input device that is used to point something on the screen. The mouse can be wired or wireless. If the mouse is wired it is connected to the CPU directly. The mouse can uses the laser o ball to scroll up or down on the screen. Any movement done from the mouse sends instructions directly to the computer to move the cursor on the screen.
+
+ 6. Keyboard
+ The keyboard is another type of computer hardware that is used to give input text, commands to the computer. The keyboard can be wired or wireless. The keyboard contains, alphabets, numbers, special characters and other buttons to give input to the computer. It is the input device that takes input to the user and processes the commands.
+
+ 7. Printer
+ The printer is a type of hardware that is used to print something which is seen on the computer and then transfer that displayed information to paper. The printers can be differentiated based on size, processing speed, and other factors.
+
+Advantages of computer hardware
+Following are the advantages pointed below:
+It will help to establish an effective mode of communication that can help the organizations to improve their business standards.
+It will help to make the task automated and help to store the huge chunks of data that can be beneficial for the organization or individual.
+The user can use the hardware to give the instruction to command and can obtain the output as per the given i9nstruction.
+The processing speed of a hardware device is fast which will help to execute more operations at one time.
+The hardware devices are multiprocessing which means the user can use more than one hardware device at the same time.
+The hardware can be installed very easily in a computer system and also can be upgraded as per the user requirements.

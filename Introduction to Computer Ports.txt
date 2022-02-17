@@ -1,0 +1,51 @@
+Introduction to Computer Ports
+A port as in hardware terms suggests a connecting point. In computers, a port is the connection point with any other hardware which can be any external devices. In other words, it connects a computer with its peripheral devices so that the expected and maximum functionality can be achieved from the computers. Most common peripheral devices include speakers, mouse, keyboard, display unit or monitor, external drives like HDD and pen drives, etc. Thus these computer ports act as an attachment point between the computer and the cable from the peripheral device and this will allow data to flow to the end.
+
+Different Types of Ports in a Computer
+A computer mostly referred to as a communication port for the obvious reason for facilitating communication between the computer and the devices. This port usually sits on the motherboard of the computer and to this, compatible hardware can be attached.
+A computer port briefly comes under one of the two classes based on the protocol used for communication. They are serial port and parallel port
+ 
+ 1. Serial port
+ The serial port acts as an interface where the data can be communicated in a serial manner which is one bit over time and a single communication link.
+
+ 2. Parallel Port
+ A parallel port facilitates communication between the computer and its peripheral devices in a parallel manner. The data is transferred in the fashion of in and out in a parallel manner. A most common example of a parallel port is printer port
+ Let us look at some of the most used ports of a computer
+   1. PS/2
+   This connector was first developed by IBM used to connect mouse and keyboard mostly. IBM has introduced it to its ist personal system/2 series of computers. They have color-coding to indicate purple for keyboard and green for the mouse. There will be 6 pins in this connector. Even though the connector looks the same, if we interchange keyboard and mouse connection then the devices will not be recognized. These port had no restrictions on the key rollover
+   These ports are now legacy ports as these are replaced by sophisticated USB ports and modern motherboards are facilitated with these ports. But still, at some places, these ports are favored for security reasons.
+
+   2. Serial Port
+   PS/2 and USB are said to be a common serial port but in technical terms, the serial port is one that satisfies RS-232 standards. There are two types of serial port and they are DE 9 and DB 25 with the number indicating the number of pins supported. These are seen in the old computers and we rarely see them in modern computers as a USB port has replaced theses. The data in most of the serial ports travel with a speed of 115 kilobits per second.
+   
+   3. Centronics Port
+   This is 36 pin parallel port which will be connecting peripheral devices such as printers or scanners with communication type being parallel. These ports were legacy but were quite popular in old times. Data approximately used to travel at 150-kilo bits per second.
+
+   4. Universal Serial bus Port
+   Short formed as USB is the modern standard for digital communication. The USB port has become a modern communication standard for connecting external peripheral devices to the computer. This USB port has significantly replaced serial ports, ps/2 ports, other game ports, parallel ports which become legacy and no longer used.
+   This USB port can serve multiple purposes like
+    Transfer Data
+    Poer supply to charge external compatible device
+    interface for the peripheral
+  
+   These ports are not device-dependent like there is no standard reservation for devices to be connected. Any compatible device can be connected with this port.
+   There are three types of USB ports and they are Type A, Type B, and Micro USB.
+   Type A is a 4 pin connector and at present different versions available. USB 3.0 is one of the common standards which supports speeds up to 400 MBPS. USB 2.0 is also one of the versions which are quite popular.
+   
+   5. Display Port
+   A display port commonly called DP is an interface for digital audio and video devices. It connects to TV, Monitor, projector. In the modern world VGA port, HDMI, DVI, etc come under-display port.
+
+   6. VGA port
+   This port is found in many computers for supporting video content devices and TVs. It hs 15 pins in three rows and is D sub connector. For older CRT monitors VGA port was the connection point.
+   Some of the modern LCD and LED supports VGA port but there will be an effect on the quality of the video
+   Nowadays VGA port is becoming legacy and with the advent of digital videos, more prominence can be seen for HDMI Display ports.
+
+   7. Digital Video Interface DVI
+   DVI is a high-speed digital interface between display devices like motor and display controller devices such as CPU. The aim od DVI to transmit lossless video signals to the displaying device.
+   
+   8. HDMI Port
+   HDMI stands for High Definition Multimedia Interface is capable of transmitting high bandwidth and high-quality streams of audio and video to the connecting devices. The peripheral devices depending on this port are high definition tv, Blue Ray player, etc.
+   Apart from these, there are many other ports such as Ethernet port to provide internet connectivity, Modem port to connect telephone network, Game Port which will help in connecting Joy Sticks, Sockets to connect the microphone, and other audio speakers, etc
+
+Importance of ports on the computer
+A physical computer port refers to the communication interface through which we can connect several peripheral devices which are very much part of digital communications. These ports differ in their physical size, shape, pins, several wires involved, etc. We have seen different ports available for a motherboard above in this article and the purpose of each port. Depending on the purpose of the computer and the number and type of ports that its motherboard can handle, the maximum efficiency can be handled.

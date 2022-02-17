@@ -1,0 +1,29 @@
+In the computer system, there are several different parts which are connected to the system. These parts can be directly plugged into the computer system computer motherboard, or there can be a requirement of some cable to connect computer parts to the system. These parts can be digital cameras, hard drives, mice or other devices. There are different types of cables in the market, like HDMI cable, VGA cable, DVI cable, Ethernet cable, PS/2 cable, 3.5 mm audio cable, USB cable, and computer power cord cable.
+
+Types of Computer Cables
+Here is the list of Types of Computer Cables
+    1. HDMI cable
+    HDMI (High definition Media Interface) is a type of computer cable used to transmit high definition video and audio signals. Using the HDMI cables, the audio and video signal can be easily transmitted without compromising the quality of images and can send crystal clear images using this cable. The HDMI cables are used to connect cable boxes, TVs, DVD players, media streamers and other electronic devices. All types of Av devices can be connected to one standard cable, which is an HDMI cable. Also, one HDMI cable is capable of transmitting both audio and video signals at the same time.
+
+    2. VGA cable
+    VGA (Video Graphics Ray) cable is another type of computer cable which is used for sending video signals and is used to link the monitor and the CPU of a computer. The VGA cable can also be used in HD televisions. All the information displayed on the monitor is coming from the VGA cable. There is a total of 15 pins in the plugin the cable, which have three rows containing 5 pins each. And the cable is easily fitted in the monitor and the other end is fixed in the CPU of a computer system.
+
+    3. DVI cable
+    DVI cables are used to connect the LCD monitor and the video card. Using this cable, the user can see high image quality without having any disturbance. The DVI cable is mostly used in CRT monitors, which have a VGA connection. This cable transmits the digital and analog signals to the computer system. The DVI cable is capable enough of digital connections and analog connections. The DVI cable can be easily distinguished, whether it is analog or digital, by looking if there is any flat pin present on the cable. If the flat pin has four pins around, then it is a DVI analog, and there is only a flat pin, then it is DVI digital.
+
+    4. Ethernet Cable
+    The Ethernet cable is a type of computer network cable which is used for a wired network. The Ethernet cable is used to connect the switches, monitors, PCs to the LAN (Local Area Network). The length and durability of the Ethernet cable describe the quality of the connection. If the cable is too long and is not durable, it will contain a poor quality of the signal. And due to this factor, there are different types of Ethernet cables present in the market. The Ethernet cables are plugged into the Ethernet port present on the motherboard. The Ethernet cable looks like a phone cable but contains more wires than phone cables. There are eight wires in the Ethernet cable, and they can be available in different colors in the market.
+
+    5. PS/2 Cable
+    The PS/2 cable is a standard cable to connect the mouse and keyboard to the computer system. The length of the PS/2 cable is long enough so that the user can easily connect the mouse and keyboard to the system and use the system. There are a total of 6 pins in PS/2 cables and have a round connector. There are majorly two sizes of PS/2 cable. The smaller size is the most common cable, but some adaptors can be used to convert it into a larger size. This cable is now replaced with USB cables as they are universal cables and can be easily plugged into any system.
+
+    6. 5mm Audio Cable
+    The 3.5mm audio cables are a type of computer cables that are used in computer audio applications. This cable can be used for connecting a mini-stereo audio device, PC sound card or any portable CD player to any multimedia speaker. This cable can also be used to connect earphones and headphones to the system.
+    The green port is for headphones and computer speakers. Blue port is for DVD player, MP3 player and pink port Is used for connecting microphones.
+
+    7. USB cables
+    The USB (Universal Serial Bus) cable is a standard cable used to connect universal devices or personal computers. It is mainly used for short-distance digital communication. The digital data can be transferred using a USB cable. Nowadays, the USB cable is used to charge devices like smartphones, Bluetooth speakers, trimmers and many more. The USB cables can be used to connect two devices directly. The USB cable is connected to the USB port present in the computer system. The mouse and keyboard are also connected to a USB port as they have USB cables. As the device is connected through the USB cable, the unplugging of the USB cable when a device is running can cause damage to a device, so whenever there is a need of removing the USB cable, first it should be eject safely and then it should be removed from the system.
+
+Advantages of Computer Cables
+Below are some advantages explained below:
+The computer cables can be used to connect various devices to the system and perform several operations. The computer cables can easily transmit the digital and analog signal through it. Some of the computer cables are capable enough to transmit electric power through it like a USB cable. Using a computer cable, one can see movies, play games, listen to music, and do many more things. Ethernet cables can be used to connect the computer system to the internet world.
